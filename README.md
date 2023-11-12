@@ -1,7 +1,7 @@
 Hello! 👋 My Name is Ahmed Gamal Mansour, Welcome To My Github Profile ♥
 
 🚀 About Me
-I'm  Ahmed Gamal from Egypt. I'm a GIS Analysis and GIS Developer. I really enjoy learning GIS Science andProgramming languages .  For This Moment I'm junior web developer and learning increasingly. 
+I'm  Ahmed Gamal from Egypt. I'm a GIS Analysis and GIS Developer. I really enjoy learning GIS Science and Programming languages .  For This Moment I'm junior web developer and learning increasingly. 
 
 🌱 I’m currently a GIS Analysis in TAQA GAS 
 
