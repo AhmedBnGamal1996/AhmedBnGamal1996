@@ -8,8 +8,9 @@ I'm  Ahmed Gamal from Egypt. I'm a GIS Analysis and GIS Developer. I really enjo
 
 📫 You can to reach me through AhmedBnGamal2018@gmail.com 
 
+
 ![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/0abdaddc-9f73-4901-85f3-3166a0807861)
-![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/886cc596-451e-4775-ad4f-f61bcbeadc81)
+
 
 Languages I Know :
 
