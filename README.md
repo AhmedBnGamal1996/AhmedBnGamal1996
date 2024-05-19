@@ -15,7 +15,7 @@ I'm  Ahmed Gamal from Egypt. I'm a GIS Analysis and GIS Developer. I really enjo
 Languages I Know :
 
 
-![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/ee5a9b55-826f-42f9-8db8-4138b8c7ab02)   / ![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/167ccdbf-e00c-4186-a717-12e5b58fe8cf)
+![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/ee5a9b55-826f-42f9-8db8-4138b8c7ab02)   / ![image](https://github.com/AhmedBnGamal1996/AhmedBnGamal1996/assets/132365383/167ccdbf-e00c-4186-a717-12e5b58fe8cf)  / CSS / JavaScript
 
 
 My Skills :
